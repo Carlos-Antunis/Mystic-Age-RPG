@@ -1,0 +1,23 @@
+{
+    "HP": {
+        "full": 2,
+        "regeneration": 0.2
+    },
+    "MP": {
+        "full": 8,
+        "regeneration": 0.2
+    },
+    "damage": {
+        "AD": 0,
+        "AP": 7
+    },
+    "defense": {
+        "ARM": 1,
+        "RES": 2
+    },
+    "proeficiences": {
+        "DXT": 2,
+        "INT": 2,
+        "AGI": 1
+    }
+}
